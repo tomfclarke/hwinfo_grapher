@@ -1,0 +1,42 @@
+# virtualenv
+.venv/
+venv/
+ENV/
+
+# dotenv
+.env
+
+# pyenv
+.python-version
+
+# byte-compiled; optimized; DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# packaging; distribution
+.Python
+build/
+env/
+dist/
+sdist/
+downloads/
+lib/
+lib64/
+parts/
+var/
+develop-eggs/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+.installed.cfg
+
+# logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+
+
+
